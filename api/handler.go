@@ -1,5 +1,5 @@
-//package main
-package handler
+package main
+//package handler
 
 import "io"
 import "net/http"
